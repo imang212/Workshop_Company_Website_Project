@@ -102,17 +102,17 @@ Na projektu jsem se naučil:
 
 ## Použitá literatura
 1. cs.wikipedia.org: Hypertext Markup Language_ [online]. 1990 [cit. 202 3 - 01 - 14 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/Hypertext_Markup_Language\
+https://cs.wikipedia.org/wiki/Hypertext_Markup_Language
 2. cs.wikipedia.org: Kaskádové styly (CSS)_ [online]. 1996 - 12 - 17 [cit. 202 3 - 01 - 14 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/Kask%C3%A1dov%C3%A9_styly\
+https://cs.wikipedia.org/wiki/Kask%C3%A1dov%C3%A9_styly
 3. cs.wikipedia.org: MySQL_ [online]. 1995 - 05 - 23 [cit. 202 3 - 03 - 09 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/MySQL\
+https://cs.wikipedia.org/wiki/MySQL
 4. cs.wikipedia.org: PHP_ [online]. 1995 - 06 - 08 [cit. 202 3 - 01 - 14 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/PHP\
+https://cs.wikipedia.org/wiki/PHP
 5. php.net: PHP_ [online]. 1995 - 06 - 08 [cit. 202 3 - 01 - 14 ]. Dostupné z:
-https://www.php.net\
+https://www.php.net
 6. cs.wikipedia.org: JavaScript_ [online]. 1995 [cit. 202 3 - 01 - 14 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/JavaScript\
+https://cs.wikipedia.org/wiki/JavaScript
 7. cs.wikipedia.org: Bootstrap_ [online]. 2002 - 11 - 22 [cit. 202 3 - 03 - 09 ]. Dostupné z:
 https://cs.wikipedia.org/wiki/Bootstrap\
 

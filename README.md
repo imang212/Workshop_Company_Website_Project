@@ -1,7 +1,6 @@
 # Strojní dílna – Firemní webové stránky
 
-**Strojní dílna** je firemní webová stránka vytvořená pro malou rodinnou firmu zabývající se obráběním kovů a zámečnickými pracemi.  
-Web byl navržen a naprogramován jako kompletní systém s administrací, databází, responzivním designem a vícejazyčnou podporou.
+**Strojní dílna** je firemní webová stránka vytvořená pro malou rodinnou firmu zabývající se obráběním kovů a zámečnickými pracemi. Web byl navržen a naprogramován jako kompletní systém s administrací, databází, responzivním designem a vícejazyčnou podporou.
 
 ## Autor projektu
 **Autor:** Patrik Poklop  
@@ -11,8 +10,7 @@ Web byl navržen a naprogramován jako kompletní systém s administrací, datab
 **Rok:** 2022/2023  
 
 ## Popis projektu
-Cílem projektu bylo vytvořit moderní a responzivní web pro dílnu, která se zabývá kovovýrobou.  
-Web slouží k prezentaci firmy, zobrazení nabízených služeb, přehledu strojů a umožňuje zákazníkům zadávat zakázky online.
+Cílem projektu bylo vytvořit moderní a responzivní web pro dílnu, která se zabývá kovovýrobou. Web slouží k prezentaci firmy, zobrazení nabízených služeb, přehledu strojů a umožňuje zákazníkům zadávat zakázky online.
 
 Hlavní funkce:
 - Firemní prezentace a popis služeb  

@@ -85,19 +85,19 @@ Na projektu jsem se naučil:
 
 ## Obrázky
 
-**Hlavní stránka:**\
+### **Hlavní stránka:**
 <img width="907" height="458" alt="image" src="https://github.com/user-attachments/assets/0293c4d4-72ed-4bbb-aa1a-504504ce0e99" />
 
-**Správa účtu:**\
+### **Správa účtu:**
 <img width="905" height="443" alt="image" src="https://github.com/user-attachments/assets/f374d3e5-6882-4565-bf86-d72f637ea827" />
 
-**Správa objednávek:**\
+### **Správa objednávek:**
 <img width="902" height="476" alt="image" src="https://github.com/user-attachments/assets/701f59d1-9f09-4343-a73c-3782aaa0f542" />
 
-**Správa novinek:**\
+### **Správa novinek:**
 <img width="907" height="451" alt="image" src="https://github.com/user-attachments/assets/119e0d89-fef6-49c6-9af7-22a9523f99ea" />
 
-**Responzivita:**\
+### **Responzivita:**
 <img width="294" height="555" alt="image" src="https://github.com/user-attachments/assets/1d247b76-9baa-47eb-9dc4-205d76a3e9e2" />
 
 ## Použitá literatura

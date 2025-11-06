@@ -43,11 +43,13 @@ Hlavní funkce:
 - **Admin rozhraní** – správa zakázek a uživatelů pomocí PHP, jQuery a AJAXu  
 
 ## Databázový návrh
-**ERD model:**\  
+**ERD model:**\
+<img width="923" height="569" alt="image" src="https://github.com/user-attachments/assets/9c874b10-47ed-4470-8e8a-fc3c6b413416" />
+
 Databáze uchovává tabulky:
 - `users` – uživatelské účty  
 - `orders` – zakázky  
-- `news` – novinky  
+- `news` – novinky
 
 Každý účet má propojení přes `user_id` na své zakázky a případné novinky.
 

@@ -3,16 +3,12 @@
 **Machine Workshop** is a company website created for a small family business engaged in metal machining and locksmithing.  
 The site was designed and developed as a complete system with administration, a database, responsive design, and multilingual support.
 
----
-
 ## Author
 **Author:** Patrik Poklop  
 **Supervisor:** Bc. Jakub Pokorný  
 **School:** Secondary Industrial School, Resslova 5, Ústí nad Labem  
 **Class:** 4ITB  
 **Year:** 2022/2023  
-
----
 
 ## Project Overview
 The goal of this project was to create a modern and responsive website for a metal machining workshop.  
@@ -28,8 +24,6 @@ The website serves to present the company, display offered services, showcase ma
 - Cookies consent popup  
 - Responsive design for mobile devices  
 
----
-
 ## Technologies Used
 | Technology | Description |
 |-------------|-------------|
@@ -40,8 +34,6 @@ The website serves to present the company, display offered services, showcase ma
 | **MySQL** | Database for users, orders, and news. |
 | **jQuery / AJAX** | Dynamic data loading and deletion without reloading the page. |
 
----
-
 ## Main Functionalities
 - **Responsive Navigation** – adapts to both PC and mobile devices  
 - **Automatic Slider** – JavaScript-powered image slider (manual and auto switching)  
@@ -51,8 +43,6 @@ The website serves to present the company, display offered services, showcase ma
 - **Order Form** – sends requests to email and stores them in the database  
 - **Cookies Banner** – user consent popup for cookies  
 - **Admin Panel** – manage orders and users via PHP, jQuery, and AJAX  
-
----
 
 ## Database Design
 
@@ -66,8 +56,6 @@ The database contains the following tables:
 
 Each account links its own `user_id` with related orders and news.
 
----
-
 ## Website Structure
 Main sections of the website:
 1. **Homepage** – Title, company introduction, and an automatic image slider  
@@ -78,14 +66,10 @@ Main sections of the website:
 6. **News** – Loaded and deleted dynamically via `fetch API` and `Ajax`  
 7. **Contacts** – Email, phone, business hours, and embedded map  
 
----
-
 ## Responsiveness
 - Fully optimized for mobile devices (Android/iOS)  
 - Expandable mobile menu powered by JavaScript  
 - Adaptive layout for smaller screens  
-
----
 
 ## Admin Panel
 - **Logged-in users** can view and manage their own account information  
@@ -95,16 +79,12 @@ Main sections of the website:
   - View all registered users  
 - All actions are handled dynamically using `AJAX` and `jQuery`  
 
----
-
 ## Learning Outcomes
 During this project, I learned to:
 - Efficiently combine **HTML, CSS, PHP, and JavaScript**  
 - Design and implement **database logic using MySQL**  
 - Use **Bootstrap** for responsive layouts  
 - Implement **interactive web features** with AJAX and fetch API  
-
----
 
 ## Screenshots
 ### **Homepage**
@@ -121,8 +101,6 @@ During this project, I learned to:
 
 ### **Responsive Layout**
 <img width="294" height="555" alt="image" src="https://github.com/user-attachments/assets/1d247b76-9baa-47eb-9dc4-205d76a3e9e2" />
-
----
 
 ## References
 

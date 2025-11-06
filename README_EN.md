@@ -111,5 +111,3 @@ During this project, I learned to:
 5. [PHP Official Documentation](https://www.php.net)  
 6. [JavaScript – Wikipedia](https://cs.wikipedia.org/wiki/JavaScript)  
 7. [Bootstrap – Wikipedia](https://cs.wikipedia.org/wiki/Bootstrap)
-
----
